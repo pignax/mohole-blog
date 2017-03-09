@@ -1,0 +1,25 @@
+{
+  "name": "mohole-blog",
+  "version": "1.0.0",
+  "description": "test ghost cms",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pignax96/ghost_cms_test.git"
+  },
+  "keywords": [
+    "mohole",
+    "test",
+    "ghost",
+    "cms"
+  ],
+  "author": "Giovanni Pignataro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pignax96/ghost_cms_test/issues"
+  },
+  "homepage": "https://github.com/pignax96/ghost_cms_test#readme"
+}
